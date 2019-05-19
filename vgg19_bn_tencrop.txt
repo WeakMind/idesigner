@@ -1,0 +1,9 @@
+Epoch : 0 loss : 3.7606742102557127
+Validation accuracy : 0.830000
+
+Epoch : 1 loss : 3.5263292391886885
+Validation accuracy : 1.886000
+
+Epoch : 2 loss : 3.2852758688541517
+Validation accuracy : 2.518000
+

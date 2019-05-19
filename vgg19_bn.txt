@@ -1,0 +1,192 @@
+Epoch : 0 loss : 2.2227778749118894
+Validation accuracy : 15.860000
+
+Epoch : 1 loss : 0.9768653271992803
+Validation accuracy : 25.600000
+
+Epoch : 2 loss : 0.5972164083543352
+Validation accuracy : 31.460000
+
+Epoch : 3 loss : 0.42670916539411674
+Validation accuracy : 34.340000
+
+Epoch : 4 loss : 0.34117026261162153
+Validation accuracy : 38.640000
+
+Epoch : 5 loss : 0.28097152516337764
+Validation accuracy : 39.600000
+
+Epoch : 6 loss : 0.24195243407608172
+Validation accuracy : 41.740000
+
+Epoch : 7 loss : 0.21380736584011892
+Validation accuracy : 40.880000
+
+Epoch : 8 loss : 0.19127275619036282
+Validation accuracy : 42.700000
+
+Epoch : 9 loss : 0.1637305098486605
+Validation accuracy : 45.920000
+
+Epoch : 10 loss : 0.16299324088635844
+Validation accuracy : 46.340000
+
+Epoch : 11 loss : 0.15179065830963587
+Validation accuracy : 47.260000
+
+Epoch : 12 loss : 0.1374633381355499
+Validation accuracy : 47.400000
+
+Epoch : 13 loss : 0.1421031397453621
+Validation accuracy : 48.760000
+
+Epoch : 14 loss : 0.12707207913563806
+Validation accuracy : 49.360000
+
+Epoch : 15 loss : 0.12776281135186202
+Validation accuracy : 50.140000
+
+Epoch : 16 loss : 0.12139522151465787
+Validation accuracy : 50.460000
+
+Epoch : 17 loss : 0.11467983503340792
+Validation accuracy : 49.520000
+
+Epoch : 18 loss : 0.10997079028896832
+Validation accuracy : 51.460000
+
+Epoch : 19 loss : 0.10735477280632276
+Validation accuracy : 52.160000
+
+Epoch : 20 loss : 0.10927872689503335
+Validation accuracy : 53.960000
+
+Epoch : 21 loss : 0.10428915541893985
+Validation accuracy : 52.960000
+
+Epoch : 22 loss : 0.09745228335164269
+Validation accuracy : 51.320000
+
+Epoch : 23 loss : 0.10301763804398965
+Validation accuracy : 53.660000
+
+Epoch : 24 loss : 0.09671425285863985
+Validation accuracy : 53.880000
+
+Epoch : 25 loss : 0.09342731393553277
+Validation accuracy : 51.400000
+
+Epoch : 26 loss : 0.09355458690741629
+Validation accuracy : 54.460000
+
+Epoch : 27 loss : 0.09254159741868405
+Validation accuracy : 53.320000
+
+Epoch : 28 loss : 0.08950158868821939
+Validation accuracy : 54.220000
+
+Epoch : 29 loss : 0.09038419428193042
+Validation accuracy : 54.120000
+
+Epoch : 30 loss : 0.0886906518436686
+Validation accuracy : 56.300000
+
+Epoch : 31 loss : 0.09017364514672471
+Validation accuracy : 55.780000
+
+Epoch : 32 loss : 0.08992036876803257
+Validation accuracy : 55.540000
+
+Epoch : 33 loss : 0.0863361368526165
+Validation accuracy : 56.840000
+
+Epoch : 34 loss : 0.08093927286764017
+Validation accuracy : 55.820000
+
+Epoch : 35 loss : 0.0839264305535815
+Validation accuracy : 54.540000
+
+Epoch : 36 loss : 0.08578558124219494
+Validation accuracy : 55.160000
+
+Epoch : 37 loss : 0.08536374201800227
+Validation accuracy : 56.660000
+
+Epoch : 38 loss : 0.079284911172577
+Validation accuracy : 57.320000
+
+Epoch : 39 loss : 0.08413734070878093
+Validation accuracy : 56.120000
+
+Epoch : 40 loss : 0.07965259735681218
+Validation accuracy : 54.480000
+
+Epoch : 41 loss : 0.08061433546923619
+Validation accuracy : 58.820000
+
+Epoch : 42 loss : 0.07926566418703343
+Validation accuracy : 56.700000
+
+Epoch : 43 loss : 0.07499841877948953
+Validation accuracy : 58.120000
+
+Epoch : 44 loss : 0.07618361245908252
+Validation accuracy : 54.180000
+
+Epoch : 45 loss : 0.07931192780080805
+Validation accuracy : 55.040000
+
+Epoch : 46 loss : 0.07910906442468307
+Validation accuracy : 58.180000
+
+Epoch : 47 loss : 0.0746110143648394
+Validation accuracy : 56.880000
+
+Epoch : 48 loss : 0.07122458997742137
+Validation accuracy : 55.580000
+
+Epoch : 49 loss : 0.07400734946467276
+Validation accuracy : 57.660000
+
+Epoch : 50 loss : 0.0739969792817977
+Validation accuracy : 58.500000
+
+Epoch : 51 loss : 0.07055489301597738
+Validation accuracy : 55.680000
+
+Epoch : 52 loss : 0.07053793321423743
+Validation accuracy : 57.940000
+
+Epoch : 53 loss : 0.0752991727192945
+Validation accuracy : 57.380000
+
+Epoch : 54 loss : 0.06769860867679094
+Validation accuracy : 58.260000
+
+Epoch : 55 loss : 0.072437882985523
+Validation accuracy : 56.200000
+
+Epoch : 56 loss : 0.06994012861037593
+Validation accuracy : 56.540000
+
+Epoch : 57 loss : 0.07054743105245534
+Validation accuracy : 57.460000
+
+Epoch : 58 loss : 0.07192350898270179
+Validation accuracy : 57.420000
+
+Epoch : 59 loss : 0.06821198685994283
+Validation accuracy : 57.960000
+
+Epoch : 60 loss : 0.06931129975436708
+Validation accuracy : 59.120000
+
+Epoch : 61 loss : 0.06832386401276846
+Validation accuracy : 56.940000
+
+Epoch : 62 loss : 0.07007154867210669
+Validation accuracy : 57.420000
+
+Epoch : 63 loss : 0.0627130529822707
+Validation accuracy : 59.220000
+
